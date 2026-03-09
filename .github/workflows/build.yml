@@ -1,4 +1,4 @@
-name: Build ICAO Desk
+name: Build Medicine course
 
 on:
   push:
