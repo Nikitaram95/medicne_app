@@ -1,5 +1,5 @@
 {
-  "productName": "Medicine course",
+  "productName": "MedicineCourse",
   "version": "1.0.0",
   "identifier": "com.medicineapp",
   "build": {
@@ -8,7 +8,7 @@
   "app": {
     "windows": [
       {
-        "title": "Medicine course",
+        "title": "Medicine Course",
         "width": 1200,
         "height": 800,
         "minWidth": 800,
